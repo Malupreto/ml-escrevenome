@@ -57,4 +57,3 @@ function movimentaMinhaRaquete() {
     yRaquete += 10;
   }
 }
-
